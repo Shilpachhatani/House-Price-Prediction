@@ -109,7 +109,7 @@ My approach to house price prediction involved the following steps:
 
 ```bash
 # 1. Clone the repository 
-git clone https://github.com/AhsanNFt/House-Price-Prediction.git
+git clone https://github.com/Shilpachhatani/House-Price-Prediction.git
 
 # 2. Navigate to the project directory
 cd House-Price-Prediction
@@ -126,7 +126,7 @@ Contributions are welcome! If you have any suggestions or improvements, please o
 ## 📬 Contact
 
 For questions or collaboration:
-- GitHub: `AhsanNFt`
-- Email: syedahsan0991@gmail.com
+- GitHub: `Shilpachhatani`
+- Email: shilpachhatani669@gmail.com
 
 
